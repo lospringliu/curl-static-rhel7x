@@ -1,0 +1,1 @@
+# curl-static-rhel7x
